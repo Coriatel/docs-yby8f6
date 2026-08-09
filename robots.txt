@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-jr5dp8.hartawin.online/sitemap.xml
